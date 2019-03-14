@@ -1,2 +1,4 @@
 # hello-world
-Initialize this repository with a README.
+
+Hey!
+I'm here to learn about GitHub. As of now I've created a branch. 
